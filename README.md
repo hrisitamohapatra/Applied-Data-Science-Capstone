@@ -70,8 +70,8 @@ The project is organized into multiple modules, each building upon the previous 
 
 ## Results
 
-- **Decision Tree Classifier** achieved the highest accuracy of **94.44%**, making it the best-performing model
-- **Support Vector Machine (SVM)** and **K-Nearest Neighbors (KNN)** each achieved an accuracy of **83.33%**
+- **Decision Tree Classifier** achieved the highest accuracy of about **89%**, making it the best-performing model
+- **Support Vector Machine (SVM)** and **K-Nearest Neighbors (KNN)** each achieved an accuracy of about **84%**
 - The results confirm that Falcon 9 landing success can be effectively predicted using historical launch data
 
 ---
